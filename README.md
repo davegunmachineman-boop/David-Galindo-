@@ -4,7 +4,7 @@ QA
 ![tester(1)](https://github.com/user-attachments/assets/368d3250-3a36-4de1-8143-04dffa1e5779)
 
 
-# 👋 ¡Hola, soy Arturo!
+# 👋 ¡Hola, soy David!
 
 Soy **QA Engineer** con experiencia en **pruebas manuales y automatizadas**, enfocado en garantizar la calidad del software a través de metodologías ágiles. Me especializo en **pruebas de API, pruebas UI y debugging**, aplicando herramientas modernas y buenas prácticas en cada proyecto.
 
