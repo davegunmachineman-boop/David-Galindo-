@@ -1,5 +1,5 @@
 # David-Galindo-
-QA
+
 ![portada](file_000000008e4482309f7ca74830d7c327.png)
 
 
