@@ -1,6 +1,6 @@
 # David-Galindo-
 QA
-[file_000000008e4482309f7ca74830d7c327.png]
+![portada](file_000000008e4482309f7ca74830d7c327.png)
 
 
 # 👋 ¡Hola, soy David!
