@@ -36,7 +36,7 @@ Soy **QA Engineer** con experiencia en **pruebas manuales y automatizadas**, enf
 - Reporté **38 errores críticos**, optimizando la experiencia del usuario.  
 - Verifiqué la funcionalidad de **métodos de pago** y lógica de reservas.  
 
-🔗 **[Repositorio](https://docs.google.com/spreadsheets/d/1Kq9tyAy5LoRQFNF_J6WgPBlHN-nXnjq5SFrlTk4nzYU/edit?usp=sharing)**
+🔗 **[Repositorio](https://docs.google.com/spreadsheets/d/11b0m-3CH4xCkVc-NDAMMCTx7R8FAE0hn/edit?gid=1058255670#gid=1058255670)**
 
 ---
 
