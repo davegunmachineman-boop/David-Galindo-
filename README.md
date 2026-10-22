@@ -8,18 +8,18 @@
 Soy **QA Engineer** con experiencia en **pruebas manuales y automatizadas**, enfocado en garantizar la calidad del software a través de metodologías ágiles. Me especializo en **pruebas de API, pruebas UI y debugging**, aplicando herramientas modernas y buenas prácticas en cada proyecto.
 
 ## 🚀 Sobre mí
-- 🎓 Formación en **Contabilidad** y **Computación e Informática**.
+- 🎓 Formación en **Computación e Informática**.
 - 📚 Actualmente he concluido satisfactoriamente el **bootcamp en Quality Assurance Engineering** de Tripleten LaTam.
-- 💡 Estoy en transición del mundo de la contabilidad al sector TI, impulsado por mi interés en la tecnología y la mejora de procesos a través del software.
+- 💡 Estoy en transición del mundo de la calidad al sector TI, impulsado por mi interés en la tecnología y la mejora de procesos a través del software.
 - 🧩 Desarrollando habilidades en **automatización de pruebas**, **pruebas API** y **pruebas en bases de datos**.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arturo-lopez-236187111/) 
+[![LinkedIn](www.linkedin.com/in/david-galindo-89a01040b) 
 
 ## 🛠️ Habilidades y herramientas
 
 - **Pruebas de Software:** Pruebas manuales, UI Testing, pruebas de regresión, debugging.
-- **Automatización:** Python, Pytest.
+- **Automatización:** Python, Pytest,selenium.
 - **API Testing:** Postman, JSON.
 - **Herramientas:** JIRA, DevTools, GitHub, Git, Bash, SQL.
 - **Metodologías:** Agile, análisis y documentación de pruebas.
