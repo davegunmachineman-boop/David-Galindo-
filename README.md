@@ -14,14 +14,14 @@ Soy **QA Engineer** con experiencia en **pruebas manuales y automatizadas**, enf
 - 🧩 Desarrollando habilidades en **automatización de pruebas**, **pruebas API** y **pruebas en bases de datos**.
 
 ## 🌐 Socials:
-[![LinkedIn]([www.linkedin.com/in/david-galindo-89a01040b](https://share.google/1lEPyEfya58jfXltP)) 
+[![LinkedIn]([www.linkedin.com/in/david-galindo-89a01040b]) 
 
 ## 🛠️ Habilidades y herramientas
 
 - **Pruebas de Software:** Pruebas manuales, UI Testing, pruebas de regresión, debugging.
 - **Automatización:** Python, Pytest,selenium.
 - **API Testing:** Postman, JSON.
-- **Herramientas:** JIRA, DevTools, GitHub, Git, Bash, SQL.
+- **Herramientas:** JIRA, DevTools, GitHub, Git Bash, SQL.
 - **Metodologías:** Agile, análisis y documentación de pruebas.
 
 ## 🚀 Proyectos Destacados
