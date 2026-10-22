@@ -14,7 +14,7 @@ Soy **QA Engineer** con experiencia en **pruebas manuales y automatizadas**, enf
 - 🧩 Desarrollando habilidades en **automatización de pruebas**, **pruebas API** y **pruebas en bases de datos**.
 
 ## 🌐 Socials:
-[![LinkedIn]([https://www.linkedin.com/in/david-galindo-89a01040b])] 
+![LinkedIn](https://www.linkedin.com/in/david-galindo-89a01040b)
 
 ## 🛠️ Habilidades y herramientas
 
