@@ -63,9 +63,9 @@ Soy **QA Engineer** con experiencia en **pruebas manuales y automatizadas**, enf
 🔗 **[Repositorio](https://docs.google.com/spreadsheets/d/1ToCypTJ8gPMkR1fR7n6ESvk9xeK9H7RUlibX9hsDYKI/edit?usp=sharing)** 
 
 ## 📊 GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArturoLopMan)](https://github.com/anuraghazra/github-readme-stats)<br/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davegunmachineman-boop)](https://github.com/anuraghazra/github-readme-stats)<br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArturoLopMan)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davegunmachineman-boop)](https://github.com/anuraghazra/github-readme-stats)
 
 ¡Gracias por visitar mi perfil! 😊
 <!--
