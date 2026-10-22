@@ -48,7 +48,7 @@ Soy **QA Engineer** con experiencia en **pruebas manuales y automatizadas**, enf
 - Probé **4 endpoints (GET, POST, DELETE)** usando Postman.  
 - Reporté **22 errores documentados** en JIRA con severidad y prioridad.  
 
-🔗 **[Repositorio](https://docs.google.com/spreadsheets/d/1_-fV2mTVxH_mYPH2XExJx9rRmt5Cz8tAWfiswwo0Cp0/edit?usp=sharing)**
+🔗 **[Repositorio](https://docs.google.com/spreadsheets/d/1uEf3-tONIpgzrnzpiNi-MQItUc60qOs47lkC5SO3p-s/edit?gid=2028980965#gid=2028980965)**
 
 ---
 
