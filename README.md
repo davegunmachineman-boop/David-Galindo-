@@ -60,7 +60,7 @@ Soy **QA Engineer** con experiencia en **pruebas manuales y automatizadas**, enf
 - Validé interacciones con botones físicos del dispositivo emulado.  
 - Reporté **4 defectos críticos** que mejoraron la usabilidad de la aplicación.  
 
-🔗 **[Repositorio](https://docs.google.com/spreadsheets/d/1ToCypTJ8gPMkR1fR7n6ESvk9xeK9H7RUlibX9hsDYKI/edit?usp=sharing)** 
+🔗 **[Repositorio](https://docs.google.com/spreadsheets/d/1yqw6V3HuByk4JIe8jJ44DiQP5IJSEKg4/edit?gid=253686603#gid=253686603)]
 
 ## 📊 GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davegunmachineman-boop)](https://github.com/anuraghazra/github-readme-stats)<br/>
